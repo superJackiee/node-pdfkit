@@ -1,0 +1,211 @@
+{
+    "balance": 1823.875,
+    "taxRate": 6,
+    "subtotal": 1625,
+    "active": true,
+    "logo":"https://firebasestorage.googleapis.com/v0/b/docket-3257f.appspot.com/o/teams%2FQ36ju3NmhDix5iti7N9H%2Fproperties.image?alt=media&token=3c760c17-16de-429b-8f7e-4f32ec8a92d8",
+    "greeting": "Thank you for the opportunity to earn your business.&nbsp;<div><br><div>Contact us today! My&nbsp;<span style=\"font-size: 1rem; background-color: inherit;\">cell number is 904-305-7534, please call or message me anytime</span><span style=\"font-size: 1rem; background-color: inherit;\">, or you can contact us online at&nbsp;</span><a href=\"http://www.americanmadedumpsters.com/contact/\" target=\"_blank\" style=\"background-color: rgb(255, 255, 255); color: rgb(89, 143, 222); font-size: 1rem; font-family: Roboto, serif;\">www.americanmadedumpsters.com/contact/</a></div><div><br></div><div>Docket is a great software for the Waste and Recycling Industry. Endorsed by, John D. Arwood.&nbsp;<br></div><div>Please visit&nbsp;<a href=\"https://www.yourdocket.com/?referral=1A2F\" target=\"_blank\" style=\"font-size: 1rem;\">https://www.yourdocket.com/?referral=1A2F</a>&nbsp;to start your free trial.</div><div><br></div><div>We also offer Financing on all equipment!&nbsp;</div></div>",
+    "calculateTaxes": true,
+    "summaryOfWork": "This is where the summary of work can be... it can be longer or shorter. This is where the summary of work can be... it can be longer or shorter. This is where the summary of work can be... it can be longer or shorter.This is where the summary of work can be... it can be longer or shorter.This is where the summary of work can be... it can be longer or shorter.This is where the summary of work can be... it can be longer or shorter.This is where the summary of work can be... it can be longer or shorter. This is where the summary of work can be... it can be longer or shorter.This is where the summary of work can be... it can be longer or shorter.  This is where the summary of work can be... it can be longer or shorter.This is where the summary of work can be... it can be longer or shorter. This is where the summary of work can be... it can be longer or shorter.",
+    "serviceAddress": {
+        "addressLine1": "95 Blue Jay Way",
+        "city": "Rexford",
+        "state": "New York",
+        "zip": "12148",
+        "location": {
+            "latitude": 42.849566,
+            "longitude": -73.838302
+        }
+    },
+    "payments": {
+        "IIkSxj176aTRWqpMuPHS": {
+            "type": "card",
+            "createdBy": "Dh2kSabYcm92regLFwl",
+            "billingCustomerId": "5n1MQkkXirhUFU8WYDd",
+            "accountId": "acct_1FL686aB1oMjw13",
+            "object": "Card",
+            "invoiceId": "1wkutQuBuEfHDRbkf2X",
+            "teamId": "5LA8AwgnIFaEXaXIfvr",
+            "amount": 60.5,
+            "id": "IIkSxj176aTRWqMuPHS",
+            "paymentCardProcessingFees": 0,
+            "customerId": "5n1MbQkkXirhUFU8YDd",
+            "cardProcessingFeesToClient": false,
+            "origin": "Web App",
+            "created": 1612835868421,
+            "description": "Facy Laks:  - •••• 1111",
+            "chargeId": "616210881"
+        }
+    },
+    "fuelSurcharges": 81.25,
+    "poNumber": "PO 5432",
+    "terms": "<p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38; text-align: center;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">TERMS AND CONDITIONS DUMPSTER RENTAL SERVICE</span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span id=\"docs-internal-guid-41f1cca4-7fff-fdba-1333-58f79270c8fe\"><br></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">This Dumpster Rental Services Agreement (\"Agreement\") is entered into by and between WEEBBLE SERVICES LLC (\"Contractor\") and&nbsp; (\"Customer\"), and the parties agree as follows:</span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><br><br></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">TERMS</span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><br></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">By renting dumpsters from Weebble, you agree to the below terms and conditions:</span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><br><br><br></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;\"><span style=\"font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1.&nbsp; Term: Customer agrees to pay the amount listed on the estimate document.The term of this Agreement for temporary dumpster services, unless otherwise specified in writing, is for seven days (“one week”), beginning the date the dumpster is delivered at the customer’s property. The container rental includes usage for up to 7 days. If the container is kept longer than 7 days there will be an additional fee of $10.00 per day. Customer shall notify through a written notice (email, text or certified mail) to the contractor about keeping the container for an extended rental period of more than 7 days. If no notice is received by the customer 48 hours prior to the expiration of the current rental term, agreement shall be renewed automatically for an additional one week period (“Renewal Term”).&nbsp; Contractor may terminate this agreement at any time. To further reiterate, in the event this Agreement has not been signed by the Customer, but a copy was sent to Customer, it shall be binding via performance of services effective upon the date of order. Payment for all base fees as well as any known additional rental time will be due prior delivery of the container. Any additional fees due to overweight or other fees not paid upon delivery are due within 2 days of container pick up. Any unpaid balance after 2 days will start to accrue 15% interest from the date of container pick up until paid in full. There will be a minimum of a $25 late fee. Neither Cash or Check are accepted as forms of payment. If paying by check and the check is returned for insufficient funds from the banking institution the Customer is responsible for any returned check fees.&nbsp;</span></p>",
+    "notes": [
+        {
+            "message": "this is a text option",
+            "attachments": [],
+            "id": "8EuoAdHjIoI1p1lZ7wnw",
+            "senderType": "EMPLOYEE",
+            "teamId": "Q36ju3NmhDix5iti7N9H",
+            "date": 1612987575907,
+            "receiverType": "CLIENT",
+            "type": "invoice",
+            "statusMessage": false,
+            "senderId": "aJ9LM79mtgi9fedOG4Ds"
+        },
+        {
+            "attachments": [
+                {
+                    "src": "https://firebasestorage.googleapis.com/v0/b/docket-3257f.appspot.com/o/public%2Fcompany%2FQ36ju3NmhDix5iti7N9H%2Ffiles%2Fcustomers%2Fundefined%2F0_5792787394432011%2Fab.jpg?alt=media&token=f5d33e1b-21e8-4616-b8fd-41962824f6f0",
+                    "preview": "https://firebasestorage.googleapis.com/v0/b/docket-3257f.appspot.com/o/public%2Fcompany%2FQ36ju3NmhDix5iti7N9H%2Ffiles%2Fcustomers%2Fundefined%2F0_5792787394432011%2Fthumb_ab.jpg?alt=media&token=8b4fd839-e574-4648-b9f8-bcf509c0a43f",
+                    "name": "ab.jpg",
+                    "type": "image/jpeg"
+                }
+            ],
+            "type": "invoice",
+            "message": "text and image",
+            "senderType": "EMPLOYEE",
+            "receiverType": "CLIENT",
+            "id": "pDEKDh1EqhTc5rKUmsif",
+            "teamId": "Q36ju3NmhDix5iti7N9H",
+            "senderId": "aJ9LM79mtgi9fedOG4Ds",
+            "date": 1612987588224,
+            "statusMessage": false
+        }
+    ],
+    "signed": true,
+    "createdBy": "aJ9LM79mtgi9fedOG4Ds",
+    "shareOnInvoiceCreate": false,
+    "senderName": {
+        "first": "Brian",
+        "last": "Ingle"
+    },
+    "signedDate": 1612988178539,
+    "fuelSurcharge": 5,
+    "mailDelivered": true,
+    "sender": "aJ9LM79mtgi9fedOG4Ds",
+    "taxes": 70.5,
+    "createJobOnInvoiceCreate": false,
+    "signatureRequired": true,
+    "activities": {
+        "4259d599-402e-4cfb-a0ae-59cc8f5569c3": {
+            "description": "Extra description area.",
+            "id": "4259d599-402e-4cfb-a0ae-59cc8f5569c3",
+            "taxable": true,
+            "rate": 500,
+            "costId": "q7nDDTkwuXcHf9R0g6at",
+            "name": "12 Yard Dumpster - 10 Day Rate - Wilmington",
+            "quantity": 1,
+            "date": 1612987503539,
+            "index": 1,
+            "amount": 500
+        },
+        "dff3e758-c57e-4e79-ac55-b605fbb9f8cc": {
+            "id": "dff3e758-c57e-4e79-ac55-b605fbb9f8cc",
+            "quantity": 3,
+            "costId": "dWge1qON11R6N2V7cdcA",
+            "discountPercent": 10,
+            "description": "",
+            "discountType": "%",
+            "rate": "250.00",
+            "taxable": true,
+            "name": "12 Yard Dumpster - 14 Day Rate - Beavercreek",
+            "index": 3,
+            "date": 1612987880451,
+            "amount": 750
+        },
+        "95b86ccf-aa50-457a-8175-dcc43b82c0cb": {
+            "quantity": 1,
+            "date": 1612987865704,
+            "discountType": "$",
+            "index": 2,
+            "name": "12 Yard Dumpster - 7 Day Rate",
+            "rate": "500.00",
+            "amount": 500,
+            "id": "95b86ccf-aa50-457a-8175-dcc43b82c0cb",
+            "costId": "WwqNXekSrjVUmpgFRKtt",
+            "taxable": false,
+            "discountAmount": 50,
+            "description": ""
+        }
+    },
+    "id": "3fk13LlrAiFYMnLS9HGC",
+    "billingCustomerId": "mjX6SUEvXNObaP05nZqm",
+    "calculateFuelSurcharges": true,
+    "createdOn": 1612987594819,
+    "dueDate": 1613592394794,
+    "createDumpsterTaskOnInvoiceCreate": false,
+    "date": 1612987484016,
+    "profit": 1450.875,
+    "customerId": "mjX6SUEvXNObaP05nZqm",
+    "shareDate": 1612987599643,
+    "customerRead": true,
+    "type": "Dumpster",
+    "projectName": "PRJ_45",
+    "signature": "https://firebasestorage.googleapis.com/v0/b/docket-3257f.appspot.com/o/public%2FQ36ju3NmhDix5iti7N9H%2Fsignatures%2Festimates%2F3fk13LlrAiFYMnLS9HGC?alt=media&token=e94246a7-73f0-40d8-8e55-821b82e35442",
+    "costs": [
+        {
+            "teamId": "Q36ju3NmhDix5iti7N9H",
+            "equipmentCost": 0,
+            "clientCost": 500,
+            "profit": 400,
+            "materialCost": 100,
+            "category": "Dumpster",
+            "name": "12 Yard Dumpster - 10 Day Rate",
+            "dumpsterSize": 12,
+            "dumpsterRentalLengthInHours": 240,
+            "additionalName": "Wilmington",
+            "dumpsterRentalLength": "tenDayRate",
+            "laborCost": 0,
+            "id": "q7nDDTkwuXcHf9R0g6at"
+        },
+        {
+            "teamId": "Q36ju3NmhDix5iti7N9H",
+            "dumpsterSize": 12,
+            "additionalName": "Beavercreek",
+            "dumpsterRentalLength": "twoWeekRate",
+            "name": "12 Yard Dumpster - 14 Day Rate",
+            "equipmentCost": 0,
+            "id": "dWge1qON11R6N2V7cdcA",
+            "dumpsterRentalLengthInHours": 336,
+            "clientCost": 250,
+            "category": "Dumpster",
+            "profit": 250,
+            "materialCost": 0,
+            "laborCost": 0
+        },
+        {
+            "materialCost": 200,
+            "dumpsterRentalLengthInHours": 168,
+            "equipmentCost": 2.5,
+            "name": "12 Yard Dumpster - 7 Day Rate",
+            "dumpsterRentalLength": "weeklyRate",
+            "category": "Dumpster",
+            "clientCost": 500,
+            "id": "WwqNXekSrjVUmpgFRKtt",
+            "laborCost": 0,
+            "teamId": "Q36ju3NmhDix5iti7N9H",
+            "profit": 297.5,
+            "dumpsterSize": 12
+        }
+    ],
+    "number": "597",
+    "history": {
+        "1612987599643": {
+            "senderName": {
+                "first": "Brian",
+                "last": "Ingle"
+            },
+            "sender": "aJ9LM79mtgi9fedOG4Ds",
+            "shareDate": 1612987599643
+        }
+    },
+    "teamId": "Q36ju3NmhDix5iti7N9H",
+    "paid": false,
+    "calculateConvenienceFees": true,
+    "convenienceFees": 47.125,
+    "total": 1823.875,
+    "shared": true,
+    "convenienceFee": "2.9",
+    "paymentTotal": 60.5
+}

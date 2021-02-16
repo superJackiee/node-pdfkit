@@ -1,0 +1,118 @@
+{
+    "active": true,
+    "balance": 0,
+    "calculateTaxes": true,
+    "subtotal": 55,
+    "convenienceFee": "3",
+    "costs": [
+        {
+            "dumpsterRentalLength": "fiveDayRate",
+            "name": "12 Yard Dumpster - 5 Day Rate",
+            "clientCost": 55,
+            "laborCost": 0,
+            "id": "9F6hQQvYN3nIysXJdAb",
+            "teamId": "5LA8AwnIFa8EXaXIfvr",
+            "profit":    55,
+            "equipmentCost": 0,
+            "materialCost": 0,
+            "dumpsterSize": 12,
+            "category": "Dumpster",
+            "additionalName": "Xenia"
+        }
+    ],
+    "taskIds": [
+        "c6BI8Ac0r0qvsImNbli"
+    ],
+    "paid": true,
+    "createdBy": "Dh2kSabYcm9FregLFwl",
+    "greeting": "<div style=\"color: rgb(0, 0, 0); font-family: Lato;\"><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.8;\"><span style=\"font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: rgba(0, 0, 0, 0.87); font-size: 14px; white-space: normal;\">Due Upon Receipt Thank you for the opportunity to earn your business.</span><br></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.8;\"><span style=\"font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: rgba(0, 0, 0, 0.87); font-size: 14px; white-space: normal;\"><br></span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.8;\"><span style=\"font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: rgba(0, 0, 0, 0.87); font-size: 14px; white-space: normal;\">Contact us today! My cell number is 904-305-7534, please call or message me anytime, or you can contact us online at&nbsp;</span><a href=\"http://www.americanmadedumpsters.com/contact/\">http://www.americanmadedumpsters.com/contact/</a><span style=\"color: rgba(0, 0, 0, 0.87); font-size: 14px; white-space: normal;\">.</span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.8;\"><span style=\"font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: rgba(0, 0, 0, 0.87); font-size: 14px; white-space: normal;\"><br></span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.8;\"><span style=\"font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: rgba(0, 0, 0, 0.87); font-size: 14px; white-space: normal;\">We also offer financing on all equipment!</span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.8;\"><span style=\"font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: rgba(0, 0, 0, 0.87); font-size: 14px; white-space: normal;\"><br></span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.8;\"><span style=\"font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: rgba(0, 0, 0, 0.87); font-size: 14px; white-space: normal;\">In addition we recommend Docket, the all-in-one software tool for the waste and recycling industry, Endorsed by John D Arwood.</span></span></p><p dir=\"ltr\" style=\"margin-top: 0pt; margin-bottom: 0pt; line-height: 1.8;\"><span style=\"font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: rgba(0, 0, 0, 0.87); font-size: 14px; white-space: normal;\">Please visit&nbsp;</span></span><a href=\"http://bit.ly/WasteRecyclingSoftware\" style=\"font-family: Lato; font-size: 1rem;\">http://bit.ly/WasteRecyclingSoftware</a><span style=\"color: rgba(0, 0, 0, 0.87); background-color: transparent;\">&nbsp;to start your free trial.</span></p></div>",
+    "type": "Dumpster",
+    "profit": 56.65,
+    "paymentTotal": 60.5,
+    "shareOnInvoiceCreate": false,
+    "total": 60.5,
+    "signatureRequired": true,
+    "billingCustomerId": "5n1MQkkXirhUFU8WYDd",
+    "terms": "<span id=\"docs-internal-guid-09691e15-7fff-1e73-5092-c2c4f5e89191\"><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 8pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Roll Off Dumpster Rental Terms and Conditions</span></p><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><br></p><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 8pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">Doliver Enterprises, LLC, dba Blackjack Disposal, a Texas, U.S.A. limited liability company, including its affiliates and subsidiaries (“Company”), agrees to rent certain dumpster equipment (“Equipment”) to customer (“Customer”) on the basis of the terms and conditions as set forth herein.&nbsp; Except as specifically set forth herein, or as otherwise communicated by Company to Customer, the following terms and conditions, including the Rental Documents (as defined herein) shall apply to and govern both commercial and residential rentals.</span></p><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 8pt; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">1</span><span style=\"font-size: 8pt; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;\">. Acceptance; Contract Formation. This transaction, including Company’s rental of Equipment to Customer, is expressly limited to and made conditional upon Customer’s assent to and acceptance of all the terms and conditions contained herein and as set forth in any related rental document, including, but not limited to any quotation, proposal, acknowledgment and/or invoice (collectively referred to hereinafter as the “Rental Documents”). The terms and conditions stated herein shall apply to and govern all Rental Documents, including any agreement, order and/or rental that may result here from, and these terms and conditions, along with the Rental Documents, constitute the entire agreement between Company and Customer. Any of Customer’s terms contained in any request for quotation, purchase order, release, acknowledgement or any other Customer document which are in addition to or different from the terms contained herein are hereby specifically objected to, rejected and excluded, and shall be of no force or effect.</span></p><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><br></p><br></span>",
+    "notes": [],
+    "dueDate": 1613267792121,
+    "createJobOnInvoiceCreate": false,
+    "number": 673,
+    "convenienceFees": 1.65,
+    "customerId": "5n1MbQkkXrhUFU8WYDd",
+    "teamId": "5LA8AwgnIFaEXaXIfvr",
+    "id": "1wkutQuBuE9fHDbkf2X",
+    "createdOn": 1612835792124,
+    "activities": {
+        "92a2e8fd-83e0-4b45-bf60-23e0efaebcb7": {
+            "description": "",
+            "index": 1,
+            "quantity": 1,
+            "costId": "9F6hQQvYN3n4IysXJdAb",
+            "rate": 55,
+            "name": "12 Yard Dumpster - 5 Day Rate - Xenia",
+            "date": 1612835790430,
+            "amount": 55,
+            "taxable": true,
+            "id": "92a2e8fd-83e0-4b45-bf60-23e0efaebcb7"
+        }
+    },
+    "calculateConvenienceFees": true,
+    "taxRate": 7,
+    "createDumpsterTaskOnInvoiceCreate": false,
+    "calculateFuelSurcharges": false,
+    "date": 1612835788051,
+    "payments": {
+        "IIkSxj176aTRWqpMuPHS": {
+            "type": "card",
+            "createdBy": "Dh2kSabYcm92regLFwl",
+            "billingCustomerId": "5n1MQkkXirhUFU8WYDd",
+            "accountId": "acct_1FL686aB1oMjw13",
+            "object": "Card",
+            "invoiceId": "1wkutQuBuEfHDRbkf2X",
+            "teamId": "5LA8AwgnIFaEXaXIfvr",
+            "amount": 60.5,
+            "id": "IIkSxj176aTRWqMuPHS",
+            "paymentCardProcessingFees": 0,
+            "customerId": "5n1MbQkkXirhUFU8YDd",
+            "cardProcessingFeesToClient": false,
+            "origin": "Web App",
+            "created": 1612835868421,
+            "description": "Facy Laks:  - •••• 1111",
+            "chargeId": "616210881"
+        }
+    },
+    "taxes": 3.85,
+    "company": {
+        "isBusiness": true,
+        "image": "https://firebasestorage.googleapis.com/v0/b/docket-dev-237ce.appspot.com/o/teams%2F5LA8AwgnIFa8EXaXIfvr%2Fproperties.image?alt=media&token=0e4af778-546c-4b82-9d55-1a609e7788a5",
+        "website": "http://www.google.com",
+        "address": {
+            "state": "Ohio",
+            "addressLine1": "3195 Dayton-Xenia Rd.",
+            "city": "Beavercreek",
+            "zip": "45434",
+            "location": {
+                "longitude": -84.05516539999999,
+                "latitude": 39.7259258
+            }
+        },
+        "businessName": "Dumpster Sandbox, LLC",
+        "phone": {
+            "number": "555-5555",
+            "areaCode": "555"
+        },
+        "email": "klimkowd@gmail.com"
+    },
+    "billto": {
+        "name": "Jerome laks",
+        "state": "Ohio",
+        "location": {
+            "longitude": -83.9421321,
+            "latitude": 39.5425381
+        },
+        "city": "Wilmington",
+        "addressLine1": "95 Blue Jay Way",
+        "zip": "45177"
+    }
+}
